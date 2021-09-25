@@ -1,0 +1,92 @@
+*{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+    .myHeader {
+
+    background-color: rebeccapurple;
+    width: 70%;
+    font-size: 3vw;
+    color: white;
+    text-align: center;
+    text-decoration-color: white;
+    padding: 3%;
+    }
+   
+    
+    .myImage{
+        margin-top: 2%;
+        padding: 3%;
+        width: 27%;
+        height: 27%;
+        float: left;
+    }
+    .myText
+    {
+        font-size:3vw;
+        text-align: justify;
+    }
+    .container p{
+        text-align: justify;
+        margin-left: 2%;
+    }
+      .container {
+        text-align: left;
+        padding: 3%;  
+        display: flex;
+        margin-top: 0%;
+        flex-direction: row; 
+        align-content: flex-start;   
+        width: 70%;
+        background-color:#5cdb95;
+        
+    }
+    .myTable 
+    {
+        overflow-x:auto;
+
+        border-collapse: collapse;
+      }
+      
+     
+    th,td{
+        border: 1px solid black;
+        
+    }
+
+    .container1 {
+        overflow-x:auto;
+        text-align: left;
+        padding: 3%;    
+        text-align:left ;            
+        margin-top: 1%;
+        width: 70%;
+        background-color:#5cdb95;
+    }
+    .heading
+    {
+        width: 75%;
+        background-color: lavender;
+        margin: auto;
+    }
+body{
+    background-color: honeydew;
+
+}
+    .container2 {
+        text-align: left;  
+        padding: 1%;         
+        text-align:left ;            
+        margin-top: 1%;
+        width: 73%;
+        background-color: #5cdb95;
+    }
+
+    .container2 p{
+        font-weight: bold;
+    }
+
+    
+
